@@ -7,14 +7,18 @@ All users can login to the system using their respective id and password given b
 Admin has the credentials:
 
 id: admin
+
 password: admin
 
 After login admin menu will open, and he can use his features. 
+
 An admin has the complete access to the system. He can add new students and faculties, modify and delete their data. He can update student scores and can view everyone result. Basically, he has whole data transparency of the system.
+
 Their is a feature called Publish Student Result in admin menu, until it's off Student cannot see his result.
 
 ## Faculty
 A faculty will login to the system using faculty id and password created by the admin. Then a faculty menu will open and he can select his features there.
+
 He has the features to view his profile, to view any student profile, update student marks. Basically partial access to the system.
 
 ## Student
